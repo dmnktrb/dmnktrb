@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dominik.
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning React and Django
 
 
 <!---
