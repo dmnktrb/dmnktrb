@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dominik.
-- 👀 I’m interested in building exciting projects.
+- 👀 I’m interested in building exciting projects and learning new stuff
 
 
 <!---
